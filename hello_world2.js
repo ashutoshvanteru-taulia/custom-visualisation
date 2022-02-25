@@ -37,6 +37,9 @@ looker.plugins.visualizations.add({
             font-size: 18px;
           }
         </style>
+        <head>
+            <title>Hello, World!</title>
+        </head>
       `;
   
       // Create a container element to let us center the text.
